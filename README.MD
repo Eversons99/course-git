@@ -1,1 +1,1 @@
-A simple projec to test
+A simple project to test
